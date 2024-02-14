@@ -1,0 +1,502 @@
+[
+  {
+    "_id": "bkL1a4IExc",
+    "content": "Motivation is the art of getting people to do what you want them to do because they want to do it.",
+    "author": "Dwight D. Eisenhower",
+    "tags": ["Inspirational"],
+    "authorSlug": "dwight-d-eisenhower",
+    "length": 98,
+    "dateAdded": "2020-02-07",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "iCcQwfTUU3",
+    "author": "Albert Einstein",
+    "content": "Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population.",
+    "tags": ["Freedom", "Tolerance"],
+    "authorSlug": "albert-einstein",
+    "length": 166,
+    "dateAdded": "2023-04-06",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "4Q7v92RUbie",
+    "content": "None knows the weight of another's burden.",
+    "author": "George Herbert",
+    "tags": ["Wisdom"],
+    "authorSlug": "george-herbert",
+    "length": 42,
+    "dateAdded": "2020-06-24",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "z6qESmmSnsFH",
+    "content": "What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.",
+    "author": "The Buddha",
+    "tags": ["Wisdom", "Future"],
+    "authorSlug": "the-buddha",
+    "length": 114,
+    "dateAdded": "2019-08-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "k0LZmoX2xWU",
+    "content": "The best way out is always through.",
+    "author": "Robert Frost",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "robert-frost",
+    "length": 35,
+    "dateAdded": "2021-03-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "-CzNrWMGIg8V",
+    "content": "Take things as they are. Punch when you have to punch. Kick when you have to kick.",
+    "author": "Bruce Lee",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "bruce-lee",
+    "length": 82,
+    "dateAdded": "2020-11-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "zEEnS1yT_mN0",
+    "content": "We should all be thankful for those people who rekindle the inner spirit.",
+    "author": "Albert Schweitzer",
+    "tags": ["Famous Quotes", "Friendship"],
+    "authorSlug": "albert-schweitzer",
+    "length": 73,
+    "dateAdded": "2021-04-15",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "n1CKSLhX-iSp",
+    "content": "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
+    "author": "Kathleen Norris",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "kathleen-norris",
+    "length": 106,
+    "dateAdded": "2019-02-17",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "wO1L8EVXZczP",
+    "content": "Always be smarter than the people who hire you.",
+    "author": "Lena Horne",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "lena-horne",
+    "length": 47,
+    "dateAdded": "2019-04-05",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "RFbQKIDffV",
+    "content": "I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.",
+    "author": "Isocrates",
+    "tags": ["Wisdom"],
+    "authorSlug": "isocrates",
+    "length": 236,
+    "dateAdded": "2020-01-15",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "EiMTkdWMquh",
+    "content": "To accomplish great things, we must dream as well as act.",
+    "author": "Anatole France",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "anatole-france",
+    "length": 57,
+    "dateAdded": "2020-03-15",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "KAmy1hCAuk",
+    "content": "Love is the wisdom of the fool and the folly of the wise.",
+    "author": "Samuel Johnson",
+    "tags": ["Wisdom"],
+    "authorSlug": "samuel-johnson",
+    "length": 57,
+    "dateAdded": "2020-01-12",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "y1yjB7RbU_Aq",
+    "content": "Small opportunities are often the beginning of great enterprises.",
+    "author": "Demosthenes",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "demosthenes",
+    "length": 65,
+    "dateAdded": "2020-10-14",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "4W0N-xcOuLo6",
+    "content": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "theodore-roosevelt",
+    "length": 41,
+    "dateAdded": "2021-01-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "BYFMDg3gOH",
+    "content": "For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.",
+    "author": "Audrey Hepburn",
+    "tags": ["Wisdom"],
+    "authorSlug": "audrey-hepburn",
+    "length": 163,
+    "dateAdded": "2020-10-14",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "RQP0o_Ze99D",
+    "content": "No man was ever wise by chance.",
+    "author": "Seneca the Younger",
+    "tags": ["Famous Quotes", "Wisdom"],
+    "authorSlug": "seneca-the-younger",
+    "length": 31,
+    "dateAdded": "2020-12-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "ugqldtr7vtpf",
+    "content": "Silence is the true friend that never betrays.",
+    "author": "Confucius",
+    "tags": ["Wisdom"],
+    "authorSlug": "confucius",
+    "length": 46,
+    "dateAdded": "2020-01-15",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "jYyA1JDRT8Ao",
+    "content": "Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.",
+    "author": "Henry James",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "henry-james",
+    "length": 105,
+    "dateAdded": "2019-08-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "0Z8EQaXeVdhX",
+    "content": "We've got to have a dream if we are going to make a dream come true.",
+    "author": "Walt Disney",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "walt-disney",
+    "length": 68,
+    "dateAdded": "2019-09-13",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "y2-XO-7xRg",
+    "content": "Love is the attempt to form a friendship inspired by beauty.",
+    "author": "Cicero",
+    "tags": ["Friendship"],
+    "authorSlug": "cicero",
+    "length": 60,
+    "dateAdded": "2019-02-13",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "2cApxEvjmdRN",
+    "content": "Truth is generally the best vindication against slander.",
+    "author": "Abraham Lincoln",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "abraham-lincoln",
+    "length": 56,
+    "dateAdded": "2020-03-15",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "yP11lreUJUGB",
+    "content": "By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.",
+    "author": "Laozi",
+    "tags": ["Wisdom"],
+    "authorSlug": "laozi",
+    "length": 134,
+    "dateAdded": "2019-06-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "UQ2TjZ5IIDSR",
+    "content": "Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.",
+    "author": "Albert Einstein",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "albert-einstein",
+    "length": 96,
+    "dateAdded": "2020-02-22",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "CNFRyflKOI",
+    "content": "Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.",
+    "author": "Edith Wharton",
+    "tags": ["Wisdom"],
+    "authorSlug": "edith-wharton",
+    "length": 122,
+    "dateAdded": "2021-05-07",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "i-MVVN2dXY8n",
+    "content": "To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.",
+    "author": "Tony Robbins",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "tony-robbins",
+    "length": 174,
+    "dateAdded": "2021-02-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "k8oFtw9mQpi",
+    "content": "Loss is nothing else but change, and change is Nature's delight.",
+    "author": "Marcus Aurelius",
+    "tags": ["Famous Quotes", "Change", "Wisdom"],
+    "authorSlug": "marcus-aurelius",
+    "length": 64,
+    "dateAdded": "2021-02-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "vps23_-2ni",
+    "content": "Friendship is an arrangement by which we undertake to exchange small favors for big ones.",
+    "author": "Montesquieu",
+    "tags": ["Friendship"],
+    "authorSlug": "montesquieu",
+    "length": 89,
+    "dateAdded": "2020-02-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "6YlJjSaAbKdA",
+    "content": "Our kindness may be the most persuasive argument for that which we believe.",
+    "author": "Gordon Hinckley",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "gordon-hinckley",
+    "length": 75,
+    "dateAdded": "2019-08-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "6-nBiTOMcsqK",
+    "content": "There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.",
+    "author": "Alfred Korzybski",
+    "tags": ["Famous Quotes", "Life"],
+    "authorSlug": "alfred-korzybski",
+    "length": 127,
+    "dateAdded": "2020-07-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "3nM-lSBTxLVL",
+    "content": "Living at risk is jumping off the cliff and building your wings on the way down.",
+    "author": "Ray Bradbury",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "ray-bradbury",
+    "length": 80,
+    "dateAdded": "2020-09-29",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "_2iWk5KE6Xc5",
+    "content": "Anything you really want, you can attain, if you really go after it.",
+    "author": "Wayne Dyer",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "wayne-dyer",
+    "length": 68,
+    "dateAdded": "2019-06-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "JIk3cbQ8s",
+    "author": "Michael Jordan",
+    "content": "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
+    "tags": ["Sports", "Competition", "Famous Quotes"],
+    "authorSlug": "michael-jordan",
+    "length": 224,
+    "dateAdded": "2022-07-06",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "b64MwqrSHMN",
+    "content": "Experience is simply the name we give our mistakes.",
+    "author": "Oscar Wilde",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "oscar-wilde",
+    "length": 51,
+    "dateAdded": "2019-10-18",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "qvxH7A2R_",
+    "content": "A friend is what the heart needs all the time.",
+    "author": "Henry van Dyke Jr.",
+    "tags": ["Friendship"],
+    "authorSlug": "henry-van-dyke-jr",
+    "length": 46,
+    "dateAdded": "2020-10-29",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "4vBDcA9H-kG",
+    "content": "No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.",
+    "author": "Robert Southey",
+    "tags": ["Friendship"],
+    "authorSlug": "robert-southey",
+    "length": 124,
+    "dateAdded": "2019-08-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "qTGVTGcMFdZ",
+    "content": "Imagination rules the world.",
+    "author": "Napoleon",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "napoleon",
+    "length": 28,
+    "dateAdded": "2020-02-07",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "8W_EcJkZ-o",
+    "content": "The lure of the distant and the difficult is deceptive. The great opportunity is where you are.",
+    "author": "John Burroughs",
+    "tags": ["Wisdom"],
+    "authorSlug": "john-burroughs",
+    "length": 95,
+    "dateAdded": "2020-03-01",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "VDDodhULiss2",
+    "content": "It is through science that we prove, but through intuition that we discover.",
+    "author": "Henri Poincaré",
+    "tags": ["Famous Quotes", "Science", "Technology"],
+    "authorSlug": "henri-poincare",
+    "length": 76,
+    "dateAdded": "2020-09-29",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "_XB2MKPzW7dA",
+    "content": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer",
+    "tags": ["Famous Quotes", "Success", "Happiness"],
+    "authorSlug": "albert-schweitzer",
+    "length": 125,
+    "dateAdded": "2021-05-12",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "FO4v4ZdByU",
+    "content": "A man cannot be said to succeed in this life who does not satisfy one friend.",
+    "author": "Henry David Thoreau",
+    "tags": ["Friendship"],
+    "authorSlug": "henry-david-thoreau",
+    "length": 77,
+    "dateAdded": "2021-01-19",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "QQDu56d67y",
+    "content": "Humanity is acquiring all the right technology for all the wrong reasons.",
+    "author": "Buckminster Fuller",
+    "tags": ["Technology"],
+    "authorSlug": "buckminster-fuller",
+    "length": 73,
+    "dateAdded": "2020-09-09",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "B8_nsfJfMx",
+    "content": "Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.",
+    "author": "Oscar Wilde",
+    "tags": ["Friendship"],
+    "authorSlug": "oscar-wilde",
+    "length": 95,
+    "dateAdded": "2020-11-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "kKAMmRhnyps",
+    "content": "All the great performers I have worked with are fueled by a personal dream.",
+    "author": "John Eliot",
+    "tags": ["Success"],
+    "authorSlug": "john-eliot",
+    "length": 75,
+    "dateAdded": "2019-02-13",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "2j0J0COgUTmX",
+    "content": "Men are disturbed not by things, but by the view which they take of them.",
+    "author": "Epictetus",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "epictetus",
+    "length": 73,
+    "dateAdded": "2021-05-07",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "SBqsC7DOKoC0",
+    "content": "At the center of your being, you have the answer; you know who you are, and you know what you want.",
+    "author": "Laozi",
+    "tags": ["Wisdom"],
+    "authorSlug": "laozi",
+    "length": 99,
+    "dateAdded": "2019-08-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "KsjEIA45Uf",
+    "content": "The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom.",
+    "author": "William Hurt",
+    "tags": ["Wisdom", "Technology"],
+    "authorSlug": "william-hurt",
+    "length": 195,
+    "dateAdded": "2021-02-27",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "gXJa2hBwIpVh",
+    "content": "Arriving at one point is the starting point to another.",
+    "author": "John Dewey",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "john-dewey",
+    "length": 55,
+    "dateAdded": "2021-01-10",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "LGLKYTCTq9",
+    "author": "Abraham Lincoln",
+    "content": "I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.",
+    "tags": ["Politics", "History"],
+    "authorSlug": "abraham-lincoln",
+    "length": 159,
+    "dateAdded": "2022-03-12",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "CFy490n4lo8g",
+    "content": "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
+    "author": "Margaret Cousins",
+    "tags": ["Change", "Life", "Wisdom"],
+    "authorSlug": "margaret-cousins",
+    "length": 112,
+    "dateAdded": "2019-09-19",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "r0Ioz99q4PGu",
+    "content": "The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.",
+    "author": "Helen Keller",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "helen-keller",
+    "length": 105,
+    "dateAdded": "2020-04-14",
+    "dateModified": "2023-04-14"
+  }
+]
