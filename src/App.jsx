@@ -15,6 +15,14 @@ export default function App() {
     setQuotes(podatki);
   }
 
+  function isQuoteSelected(quote) {
+    if (selected_tag != null) {
+      return quote.tags.includes(selected_tag);
+    } else {
+      return true;
+    }
+  }
+
   useEffect(() => {
     getQuotes();
   }, []);
@@ -54,14 +62,30 @@ export default function App() {
     <div className="p-4">
       <div>
         {tags.map((tag) => (
-          <Badge>{tag}</Badge> //dodaj onClick
+          <Badge
+            className="cursor-pointer"
+            key={tag}
+            onClick={() => {
+              if (tag === selected_tag) {
+                //unselect
+                setSelected_tag(null);
+              } else {
+                setSelected_tag(tag);
+              }
+            }}
+            variant={selected_tag === tag ? "outline" : "default"}
+          >
+            {tag}
+          </Badge> //dodaj onClick
         ))}
       </div>
 
       <div className="grid grid-cols-3 gap-4">
-        {quotes.map((quote) => (
-          <Quote quote={quote} key={quote["_id"]}></Quote>
-        ))}
+        {quotes
+          .filter((quote) => isQuoteSelected(quote))
+          .map((quote) => (
+            <Quote quote={quote} key={quote["_id"]}></Quote>
+          ))}
       </div>
     </div>
   );
